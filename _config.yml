@@ -1,0 +1,14 @@
+# Site settings
+title: New York Society of Pediatric Critical Care Medicine
+email: nyspccm_vp@outlook.com
+description: > # this means to ignore newlines until "baseurl:"
+  Welcome to the webiste of the New York Society of Pediatric Critical
+  Care Medicine.  Our mission is to provide a venue for people interested
+  in Pediatric Critical Care in the TriState area.  We provide opportunities
+  for education and networking.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+github_username:  nyspccm
+
+# Build settings
+markdown: kramdown

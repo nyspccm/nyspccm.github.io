@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>New York Society of Pediatric Critical Care Medicine</title>
+    <description>Welcome to the webiste of the New York Society of Pediatric Critical Care Medicine.  Our mission is to provide a venue for people interested in Pediatric Critical Care in the TriState area.  We provide opportunities for education and networking.
+</description>
+    <link>http://yourdomain.com/</link>
+    <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Sun, 12 Oct 2014 12:11:43 -0400</pubDate>
+    <lastBuildDate>Sun, 12 Oct 2014 12:11:43 -0400</lastBuildDate>
+    <generator>Jekyll v2.4.0</generator>
+    
+      <item>
+        <title>Welcome to New York Society of Pediatric Critical Care Medicine Website!</title>
+        <description>&lt;p&gt;Welcome to the New York Society of Pediatric Critical Care Medicine website.
+We will be updating this website periodically with events and information
+relevant to the society as well as to Pediatric Critical Care Medicine
+in the TriState area.&lt;/p&gt;
+
+</description>
+        <pubDate>Sun, 12 Oct 2014 07:11:29 -0400</pubDate>
+        <link>http://yourdomain.com/2014/10/12/welcome-to-the-New-York-Society-of-Pediatric-Critical-Care-Medicine.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/2014/10/12/welcome-to-the-New-York-Society-of-Pediatric-Critical-Care-Medicine.html</guid>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
