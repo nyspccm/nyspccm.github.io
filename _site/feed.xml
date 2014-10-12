@@ -6,21 +6,104 @@
 </description>
     <link>http://yourdomain.com/</link>
     <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 12 Oct 2014 12:23:33 -0400</pubDate>
-    <lastBuildDate>Sun, 12 Oct 2014 12:23:33 -0400</lastBuildDate>
+    <pubDate>Sun, 12 Oct 2014 16:10:55 -0400</pubDate>
+    <lastBuildDate>Sun, 12 Oct 2014 16:10:55 -0400</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
-        <title>Welcome to New York Society of Pediatric Critical Care Medicine Website!</title>
+        <title>Welcome to the first dinner of 2014-2015 year!</title>
+        <description>&lt;p&gt;&lt;b&gt;Title:&lt;/b&gt;  Pediatric Delirium &lt;br /&gt;
+&lt;b&gt;Speaker:&lt;/b&gt; Dr. Chani Traube&lt;br /&gt;
+&lt;b&gt;Location:&lt;/b&gt; Columbia University Medical Center Faculty Club&lt;br /&gt;
+&lt;b&gt;Time:&lt;/b&gt; Tuesday, October 14, 2014 at 7pm  &lt;/p&gt;
+
+&lt;p&gt;Please mark your calendars.  The first meeting of the year will be given by
+Dr. Chani Traube on Pediatric Delirium.&lt;/p&gt;
+
+&lt;p&gt;Please RSVP to me at &lt;a href=&quot;&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#116;&amp;#111;:&amp;#098;&amp;#105;&amp;#115;&amp;#104;&amp;#111;&amp;#112;&amp;#110;&amp;#064;&amp;#109;&amp;#101;&amp;#100;&amp;#046;&amp;#099;&amp;#111;&amp;#114;&amp;#110;&amp;#101;&amp;#108;&amp;#108;&amp;#046;&amp;#101;&amp;#100;&amp;#117;&quot;&gt;&amp;#098;&amp;#105;&amp;#115;&amp;#104;&amp;#111;&amp;#112;&amp;#110;&amp;#064;&amp;#109;&amp;#101;&amp;#100;&amp;#046;&amp;#099;&amp;#111;&amp;#114;&amp;#110;&amp;#101;&amp;#108;&amp;#108;&amp;#046;&amp;#101;&amp;#100;&amp;#117;&lt;/a&gt; and don’t forget to include any
+special dietary requests.&lt;/p&gt;
+
+&lt;p&gt;Looking forward to seeing you all there!&lt;/p&gt;
+
+&lt;p&gt;Naomi Bishop, MD&lt;/p&gt;
+</description>
+        <pubDate>Sun, 12 Oct 2014 12:34:00 -0400</pubDate>
+        <link>http://yourdomain.com/2014/10/12/first-dinner-of-2014-2015.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/2014/10/12/first-dinner-of-2014-2015.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Pay NYSPCCM dues by Paypal</title>
+        <description>&lt;p&gt;Now you can pay your NYSPCCM dues by Paypal/Credit card.  Simply go to the 
+Join page OR use the button below.&lt;/p&gt;
+
+&lt;p&gt;Remember:&lt;br /&gt;
+There are three levels of membership.&lt;br /&gt;
+1. Attending Physicians&lt;br /&gt;
+2. House Physicians, Nurse Practitioners or Physician Assistants&lt;br /&gt;
+3. Trainees (Fellows or Residents)&lt;/p&gt;
+
+&lt;p&gt;Membership gives you the ability to attend our dinners/presentations.&lt;/p&gt;
+
+&lt;p&gt;&lt;form action=&quot;https://www.paypal.com/cgi-bin/webscr&quot; method=&quot;post&quot; target=&quot;_top&quot;&gt;
+&lt;input type=&quot;hidden&quot; name=&quot;cmd&quot; value=&quot;_s-xclick&quot; /&gt;
+&lt;input type=&quot;hidden&quot; name=&quot;hosted_button_id&quot; value=&quot;DK7D48HVLUWCA&quot; /&gt;
+&lt;table&gt;
+&lt;tr&gt;&lt;td&gt;&lt;input type=&quot;hidden&quot; name=&quot;on0&quot; value=&quot;Membership Options&quot; /&gt;Membership Options&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;select name=&quot;os0&quot;&gt;
+        &lt;option value=&quot;Attending Physican&quot;&gt;Attending Physican $360.45 USD&lt;/option&gt;
+        &lt;option value=&quot;HouseDoc/NP/PA&quot;&gt;HouseDoc/NP/PA $257.55 USD&lt;/option&gt;
+        &lt;option value=&quot;Trainee&quot;&gt;Trainee $154.65 USD&lt;/option&gt;
+&lt;/select&gt; &lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;input type=&quot;hidden&quot; name=&quot;on1&quot; value=&quot;Your Insititution&quot; /&gt;Your Insititution&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;input type=&quot;text&quot; name=&quot;os1&quot; maxlength=&quot;200&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;
+&lt;input type=&quot;hidden&quot; name=&quot;currency_code&quot; value=&quot;USD&quot; /&gt;
+&lt;input type=&quot;image&quot; src=&quot;https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif&quot; border=&quot;0&quot; name=&quot;submit&quot; alt=&quot;PayPal - The safer, easier way to pay online!&quot; /&gt;
+&lt;img alt=&quot;&quot; border=&quot;0&quot; src=&quot;https://www.paypalobjects.com/en_US/i/scr/pixel.gif&quot; width=&quot;1&quot; height=&quot;1&quot; /&gt;
+&lt;/form&gt;&lt;/p&gt;
+
+&lt;p&gt;As always, you may pay your dues by check and save on the service charges.
+The dues are &lt;b&gt;$350&lt;/b&gt; for Attending Physicians;
+&lt;b&gt;$250&lt;/b&gt; for House Physicians, Nurse Practitioners or Physician Assistants;
+and &lt;b&gt;$150&lt;/b&gt; for Trainees&lt;/p&gt;
+
+&lt;p&gt;To pay by check please send a check made out to &lt;b&gt;New York Society of
+Pediatric Critical Care Medicine&lt;/b&gt; and send to:  &lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;Dr. Heidi Jerome  
+622 W 168th Street, BH-440N  
+Columbia University Medical Center  
+New York, NY 10032  
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;OR you can give it to one of us.&lt;/p&gt;
+
+&lt;p&gt;Looking forward to seeing you at the dinners!&lt;/p&gt;
+
+&lt;p&gt;Naomi Bishop, MD  &lt;i&gt;President&lt;/i&gt;&lt;br /&gt;
+Stanley Hum, MD   &lt;i&gt;Vice President&lt;/i&gt;&lt;br /&gt;
+Heidi Jerome, MD  &lt;i&gt;Treasurer&lt;/i&gt;  &lt;/p&gt;
+</description>
+        <pubDate>Sun, 12 Oct 2014 09:11:29 -0400</pubDate>
+        <link>http://yourdomain.com/2014/10/12/pay-nyspccm-fees-by-paypal.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/2014/10/12/pay-nyspccm-fees-by-paypal.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Welcome to the New York Society of Pediatric Critical Care Medicine Website!</title>
         <description>&lt;p&gt;Welcome to the New York Society of Pediatric Critical Care Medicine website.
 We will be updating this website periodically with events and information
 relevant to the society as well as to Pediatric Critical Care Medicine
 in the TriState area.&lt;/p&gt;
 
+&lt;p&gt;This is the second paragraph&lt;/p&gt;
 </description>
         <pubDate>Sun, 12 Oct 2014 07:11:29 -0400</pubDate>
-        <link>http://yourdomain.com/2014/10/12/welcome-to-the-New-York-Society-of-Pediatric-Critical-Care-Medicine.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/2014/10/12/welcome-to-the-New-York-Society-of-Pediatric-Critical-Care-Medicine.html</guid>
+        <link>http://yourdomain.com/2014/10/12/welcome-to-the-NYSPCCM-website.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/2014/10/12/welcome-to-the-NYSPCCM-website.html</guid>
         
         
       </item>

@@ -1,23 +1,19 @@
 ---
-layout: page
-title: Join
-permalink: /join/
+layout: post
+title:  "Pay NYSPCCM dues by Paypal"
+date:   2014-10-12 13:11:29
+author: "Naomi Bishop"
 ---
-There are three levels of membership.  
+Now you can pay your NYSPCCM dues by Paypal/Credit card.  Simply go to the 
+Join page OR use the button below.
 
+Remember:  
+There are three levels of membership.  
 1. Attending Physicians  
 2. House Physicians, Nurse Practitioners or Physician Assistants  
 3. Trainees (Fellows or Residents)
 
-Membership gives you the opportunity to attend our dinners/presentations.
-
-We ask that you pay your fees prior to coming to the dinners or make
-arrangements with one of us to pay at the dinner. 
-
-
-<h4>Pay by Paypal</h4>
-Now you can pay your NYSPCCM dues by Paypal/Credit Card.
-However, we do charge for the Paypal fees.
+Membership gives you the ability to attend our dinners/presentations.
 
 <p><form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick">
@@ -35,8 +31,7 @@ However, we do charge for the Paypal fees.
 <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form></p>
 
-<h4>Pay by Check</h4>
-You may pay your dues by check and save on the service charges.
+As always, you may pay your dues by check and save on the service charges.
 The dues are <b>$350</b> for Attending Physicians;
 <b>$250</b> for House Physicians, Nurse Practitioners or Physician Assistants;
 and <b>$150</b> for Trainees
