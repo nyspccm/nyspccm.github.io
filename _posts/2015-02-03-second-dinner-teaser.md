@@ -12,7 +12,7 @@ dinner_time: "Tuesday, February 24, 2015 at 7pm"
 
 SAVE THE DATE
 
-<b>Title:</b>  {{ page.dinner_title }}
+<b>Title:</b>  {{ page.dinner_title }}  
 <b>Speaker:</b> {{ page.dinner_speaker }}  
 <b>Location:</b> {{ page.dinner_location }}  
 <b>Time:</b> {{ page.dinner_time }}
