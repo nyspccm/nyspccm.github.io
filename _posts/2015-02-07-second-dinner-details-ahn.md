@@ -25,6 +25,6 @@ All RSVP's should be sent to bishopn@med.cornell.edu. Please remember to include
 
 We look forward to seeing you on the 24th.
 
-Naomi .Bishop, MD  
+Naomi Bishop, MD  
 President, NY Society of Pediatric Critical Care Medicine  
 bishopn@med.cornell.edu  
