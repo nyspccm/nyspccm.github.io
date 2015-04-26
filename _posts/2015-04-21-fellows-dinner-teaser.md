@@ -23,7 +23,7 @@ As a reminder to those who have not already paid their dues, you can now use Pay
 
 All RSVP's should be sent to bishopn@med.cornell.edu. Please remember to include any dietary restrictions.
 
-We look forward to seeing you on the 24th.
+We look forward to seeing you on the 1st.
 
 Naomi Bishop, MD  
 President, NY Society of Pediatric Critical Care Medicine  
